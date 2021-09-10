@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @harry1808
-- 👀 I’m interested in learning new things and work on them.
-- 🌱 I’m currently learning python programming
+- 👋 Hi, I’m Nitish Kumar Dubey.
+- 👀 I’m interested in learning new things and work
+- I have learnt HTML5,CSS3,PYTHON,C/C++ ..
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me ... this is my number 8423432113 , 6390075891 ,email_= nitishnd1234@gmail.com
 
